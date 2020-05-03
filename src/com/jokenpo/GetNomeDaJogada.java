@@ -1,8 +1,8 @@
 package com.jokenpo;
 
-public class NomeDaJogada {
+public class GetNomeDaJogada {
 	
-	public String nomeDaJogada(int jogada) {
+	public String getNomeDaJogada(int jogada) {
 		
 		String nomeJogada = "A jogada é inválida.";
 		

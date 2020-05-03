@@ -6,7 +6,7 @@ public class ValidaJogada {
 	public int jogada2;
 
 	
-		public boolean jogadaValida (int jogada1, int jogada2) {
+		public boolean validaJogada (int jogada1, int jogada2) {
 			
 			if(jogada1 != 0 && jogada1 != 1 && jogada1 !=2) {
 				

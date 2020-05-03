@@ -2,7 +2,7 @@ package com.jokenpo;
 
 public class ResultadoDoJogo {
 	
-	public String analisaJogo(String nomeJogada1, String nomeJogada2) {
+	public String analisaJogada(String nomeJogada1, String nomeJogada2) {
 		
 		String resultado = "Resultado invalido!";
 		
